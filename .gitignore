@@ -1,0 +1,6 @@
+node_modules/
+dist/
+dev-server.log
+*.local
+.DS_Store
+*.tsbuildinfo
